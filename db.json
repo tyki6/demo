@@ -1,5 +1,5 @@
 {
-  "users/me/permissions": {
+  "users": {
     "operations_permission": "me",
     "default_operations_permission": "me",
     "media_kit_permission": "me",
