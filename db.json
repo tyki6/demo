@@ -8,7 +8,15 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
+  "users/me/permissions": {
+    "operations_permission": "me",
+    "default_operations_permission": "me",
+    "media_kit_permission": "me",
+    "analytics_permission": "me",
+    "phone_number_permission": "me",
+    "profil_permission": "me",
+    "message_permission": "me",
+    "online_permission": "me",
+    "rename_permission": "me",
   }
 }
